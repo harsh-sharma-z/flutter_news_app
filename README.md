@@ -117,7 +117,7 @@ or [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/).
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kashish0401/flutter_news_app
+$ git clone https://github.com/harsh-sharma-z/flutter_news_app
 
 # Install dependencies
 $ flutter pub get
