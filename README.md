@@ -61,8 +61,10 @@ This project is a starting point for a Flutter application.
 ---
 
 <kbd> <br> **webview_flutter**: ^3.0.4 <br> </kbd>
-<kbd> <br> **webview_flutter**: ^3.0.4 <br> </kbd>
 <kbd> <br> **http**: ^0.13.4 <br> </kbd>
+<kbd> <br> **url_launcher**: ^6.1.5 <br> </kbd>
+<kbd> <br> **share_plus**: ^4.0.10 <br> </kbd>
+<kbd> <br> **drawerbehavior**: ^0.0.4 <br> </kbd>
 
 ## Directory Structure
 
@@ -105,6 +107,8 @@ Know More
     - Science
     - Technology
 - WebView to read the detailed news
+- Open news in external web browser
+- Share news url
 
 <h3> Pre-Requisities </h3>
 
@@ -137,6 +141,6 @@ $ flutter run
 
 <!------------------------------------{ apk }----------------------------------->
 
-[universal-release]: https://github.com/harsh-sharma-z/flutter_news_app/blob/master/releases/download/v0.1.0/app-release.apk
+[universal-release]: https://github.com/AjCodez/flutter_news_app/releases/download/v1.1.3/Know-More.apk
 
 [android]: https://telegra.ph/file/f2f70a74d2d92c3c7f688.png
